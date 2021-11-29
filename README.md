@@ -1,5 +1,10 @@
 # 😍 Olá ser humano do outro lado da tela,
  🗺️ Vem sempre aqui?
+ 
+<div align="center">
+ <img height="300" width="500" alt="gif" src="./imagens/see-ya-bye-girl.gif">
+</div>
+
 ## 🙋‍♀️ Hannah, 26 anos. Graduanda em ciência da computação. 
 ### Aluna da {reprograma} e nas horas vagas estudante da Alura e DIO INNOVANTION.
 
