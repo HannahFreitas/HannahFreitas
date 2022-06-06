@@ -5,10 +5,10 @@
  <img height="300" width="500" alt="gif" src="./imagens/see-ya-bye-girl.gif">
 </div>
 
-## 🙋‍♀️ Hannah, 26 anos. Graduanda em ciência da computação. 
-### Aluna da {reprograma} e nas horas vagas estudante da Alura e DIO INNOVANTION.
+## 🙋‍♀️ Hannah, 27 anos. Graduanda em ciência da computação. 
+### Terminei o bootcamp da {reprograma} com foco em backend NodeJs e nas horas vagas estudante da Alura e DIO INNOVANTION.
 
-- 🔭 Estagiária em desenvolvimento
+- 🔭 Estagiária em desenvolvimento utlizando Java e Desenvolvedora backend Trainee utilizando Kotlin.
 - 🌱 Estudando NodeJS, ReactJS, Angular, Java, Python, C++, C#, Ruby on Rails, JavaScript, HTML, CSS, MongoDB, PostgreSQL, testes. E o que me propor estudar, estou estudando.
 - 👯 Atualmente estagiando em uma empresa que preza pelo ESG, meu maior objetivo é colaborar e abraçar a causa.
 - 💬 Estou aberta a perguntas, contato, conversas sem sentido, prometo ser divertida, só chamar!
