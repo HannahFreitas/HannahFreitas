@@ -18,9 +18,17 @@
 
 <div align="center"> 
   <a href="https://github.com/HannahFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannahFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannahFreitas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=HannahFreitas&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=HannahFreitas&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=HannahFreitas&show_icons=true" />
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
